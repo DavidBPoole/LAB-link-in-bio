@@ -1,0 +1,53 @@
+body {
+  background-image: linear-gradient(midnightblue, black);
+  margin: 7%;
+}
+
+h2 {
+  display: center;
+}
+
+.profile-info {
+  text-align: center;
+  border-radius: 120px;
+  color: lightgrey;
+}
+
+/* .profile-info {
+  text-align: center;
+} */
+
+.twitter {
+  max-width: 90px;
+  max-height: 90px;
+  margin: 10px;
+}
+
+.instagram {
+  max-width: 60px;
+  max-height: 60px;
+  margin: 10px;
+}
+
+.youtube {
+  max-width: 60px;
+  max-height: 60px;
+  margin: 10px;
+}
+
+.linkedin {
+  max-width: 60px;
+  max-height: 60px;
+  margin: 10px;
+}
+
+.social-media {
+  display: grid row;
+  text-align: center;
+  margin: 50px;
+}
+
+.profile-pic {
+  border-radius: 120px;
+  margin: 30px;
+}
