@@ -1,5 +1,5 @@
 # Link In Bio
-
+https://davidpoole-link-in-bio.netlify.app/
 ## Get Started
 - [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
 - Make setup branch with `index.html, main.css, main.js` files
@@ -17,4 +17,3 @@ You will be building Link Landing page
 Here is an example:
 
 <img width="786" alt="lib" src="https://user-images.githubusercontent.com/29741570/189382443-4714fb38-828b-497a-9dca-f4916972eec8.png">
-
